@@ -1,4 +1,4 @@
-
+<img src="assets/bannergit.jpg">
 <!--
 **hergonzalezbe/hergonzalezbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
