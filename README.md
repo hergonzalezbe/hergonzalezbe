@@ -1,5 +1,7 @@
 <img src="assets/bannergit.jpg">
 
+[![hergonzalezbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hergonzalezbe)](https://github.com/hergonzalezbe/github-readme-stats&theme=transparent)
+
 # About me
 
 I'm Hernan Gonzalez
@@ -69,5 +71,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![hergonzalezbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hergonzalezbe)](https://github.com/hergonzalezbe/github-readme-stats&theme=transparent)
