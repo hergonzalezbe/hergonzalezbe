@@ -55,7 +55,7 @@ Currently, I'm an independent professional.
     <tr><td></td><td></td></tr>
     </table>    
 <br/>
-[![hergonzalezbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hergonzalezbe)](https://github.com/hergonzalezbe/github-readme-stats&theme=transparent)
+[![hergonzalezbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hergonzalezbe)](https://github.com/hergonzalezbe/github-readme-stats)
 
 <!--
 **hergonzalezbe/hergonzalezbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
