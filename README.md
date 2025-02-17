@@ -51,10 +51,9 @@ Currently, I'm an independent professional.
     <tr>
         <td>Oracle</td>
         <td>MySQL</td>
-    </tr>
-    <tr><td></td><td></td></tr>
+    </tr>    
     </table>    
-<br/>
+
 [![hergonzalezbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=hergonzalezbe)](https://github.com/hergonzalezbe/github-readme-stats)
 
 <!--
