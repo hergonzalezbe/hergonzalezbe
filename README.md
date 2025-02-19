@@ -4,7 +4,7 @@
 
 I'm Hernan Gonzalez
 
-I'm Hernan Gonzalez. I graduated with a degree in Electronics Engineering. I've been working in software development since approximately 1998.
+I graduated with a degree in Electronics Engineering. I've been working in software development since approximately 1998.
 
 Currently, I'm an independent professional.
 
