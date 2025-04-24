@@ -2,7 +2,7 @@
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?logo=.net&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23004881.svg?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?c-sharp&logo=dotnet&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
