@@ -8,7 +8,7 @@ I graduated with a degree in Electronics Engineering. I've been working in softw
 
 Currently, I'm an independent professional.
 
-"Some programming languages and databases that I've used in various projects over time:
+Some programming languages and databases that I've used in various projects over time:
 
 <table style="border:1px solid #ccc;border:collapse;border-radius:5px">
     <tr>
